@@ -1,0 +1,30 @@
+.allHolding {
+  display:flex;
+  justify-content: center;
+}
+.coolButton {
+	background-color:white;
+	border:1px solid #643fa4;
+	display:inline-block;
+	cursor:pointer;
+	color:#643fa4;
+	font-family:Arial;
+	font-size:13px;
+	font-weight:bold;
+	padding:6px 12px;
+  text-decoration:none;
+  margin: 3% 0% 2% 0%
+}
+.coolButton:hover {
+	color: #fc047c;
+  background-color:white;
+  border:1px solid #fc047c;
+}
+.coolButton:active {
+	position:relative;
+	top:1px;
+}
+
+h2{
+  color:white
+}
